@@ -1,13 +1,13 @@
 # Origem e derivação 
 
-Tic Tic Pou com Classes é uma versão alternativa ao Tic Tic Pou original, jogo de roda cuja origem não é conhecida (se você souber de algo, nos avise). O jogo foi apresentado a um grupo de amigos que gostaram tanto do jogo, tanto pela sua simplicidade quanto pela sua dinâmica, que estes foram acrescentando novas ações em complemento as três ações base: Defender, Recarregar e Atacar. Conforme nos desafiamos a botar cada vez mais ações, o jogo começou a ficar muito difícil de acompanhar e então criamos as classes.  
-O processo criativo acontece de forma espontânea e colaborativa entre todos que já jogaram o jogo em algum momento e possuem interessem avaliar e contribuir para o refinado do jogo e de suas classes.  
+Tic Tic Pou com Classes é uma versão alternativa ao **Tic Tic Pou original**, jogo de roda cuja origem não é conhecida (se você souber de algo, nos avise). O jogo foi apresentado a um grupo de amigos que gostaram tanto do jogo, tanto pela sua simplicidade quanto pela sua dinâmica, que estes foram acrescentando novas ações em complemento as três ações base: **Defender, Recarregar e Atacar**. Conforme nos desafiamos a botar cada vez mais ações, o jogo começou a ficar muito difícil de acompanhar e então criamos as classes.  
+O processo criativo acontece de forma espontânea e colaborativa entre todos que já jogaram o jogo em algum momento e possuem interessem avaliar e contribuir para o refinamento do jogo e de suas classes.  
 O jogo é ensinado em etapas, sugerimos ensinar o jogo base primeiro, jogar algumas partidas, adicionar as 4 classes + noviço e apenas então acrescentar demais classes como Assassino e Pacificador.  
 
 # Tic Tic Pou (jogo base)
 
 ## Preparação:
-O jogo precisa de 3 ou mais jogadores. O limite teórico é 10-12.  
+O jogo precisa de 3 ou mais jogadores.
 Os jogadores se posicionam de forma a fazer um círculo. 
 
 ## Rotina:
@@ -113,7 +113,8 @@ Finalizador é um conceito que está sendo trabalhado para ser implementado como
 O problema é que em duelos os jogadores tendem a ficar mais na defensiva, prolongando a duração do jogo.  
 Outro problema é o desequilíbrio no 1×1, como por exemplo ninguém morrer para o Assassino bastando recarregar e atirar em todas as rodadas.  
 Por enquanto estamos com a ideia de que seja necessário recarregar um finalizador por 3 turnos (não necessariamente consecutivos) e ao fim do 3 carregamento, o jogador declara uma ação especial que representa a sua vitória.  
-Exemplos: um Mago invocando um Meteoro, um Padre preparando para Exorcizar alguém, um Samurai dando uma estocada, etc.  
+Exemplos: um Mago invocando um Meteoro, um Padre preparando para Exorcizar alguém, um Samurai dando uma estocada, etc.
+Veja mais no arquivo **Finalizadores.md**  
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este trabalho está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons - Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional</a>.
 

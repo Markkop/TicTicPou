@@ -7,6 +7,7 @@ Para **atirar**, o jogador aponta seus braços como se fossem armas para alguém
 Só é possível ter **uma bala no máximo.**  
 O tiro não precisa ser logo seguinte do carregamento  
 Caso o jogador erre a ação ou perca o ritmo, ele morre.  
+Só é possível perder 1 no máximo vida por rodada.  
 
 ## Com Classes
 No Tic Tic Pou com classes básicas, os jogadores devem escoher uma classe antes de começar o jogo.  
@@ -17,7 +18,7 @@ Todas as classes continuam tendo as três ações básicas: defender, carregar e
 Pode descarregar usando **"Kadabra"** e gestos como se uma **explosão** caísse dos ceús.  
 **Kadabra ataca todos os demais jogadores** ao mesmo tempo, quem não estiver se defendendo morre.  
 Caso o Mago leve um tiro durante o Kadabra (ou seja contra atacado por Katchim), o Mago morre e o Kadabra cancelado.   
-Obs: caso 2 Magos usem Kadabra, ambos se matam e suas ações anuladas.  
+(Obs: caso 2 Magos usem Kadabra ao mesmo tempo, os Kadabras acontecem normalmente; todos são atingidos)  
 
 **Samurai**: pode carregar uma ação especial ao som de **"Uh!"**, colocando suas duas mãos em um lado da cintura como se segurasse a bainha de uma espada.  
 Pode descarregar usando **"Katchim"** e erguendo sua espada como se estivesse **contra-atacando**.  

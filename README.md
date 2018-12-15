@@ -25,6 +25,7 @@ Quando sobram apenas 2 jogadores (1×1), eles podem continuar jogando ou se decl
 **Atirar:** o jogador aponta suas mãos simbolizando armas para um alvo e faz o som “Pou!”, gastando uma bala e matando o alvo que estiver sem defender.  
  
 _Observações:_  
+Todos começam com 1 vida e 0 balas.  
 Só é possível ter **uma bala** guardada no máximo.  
 Não é necessário atirar na rodada seguinte que recarregou, você pode “guardar” a bala.  
 Todos possuem apenas uma vida; se for atacado enquanto recarrega ou atira, morre.  

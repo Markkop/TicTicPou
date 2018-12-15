@@ -4,6 +4,7 @@ Para **defender** o jogador cruza seus braços em frente de seu peito.
 Para **carregar**, o jogador levanta os braços como se fossem armas e fala **"Tic, Tic"**  
 Para **atirar**, o jogador aponta seus braços como se fossem armas para alguém e fala **"Pou!"**  
 
+Todos começam com 1 vida.  
 Só é possível ter **uma bala no máximo.**  
 O tiro não precisa ser logo seguinte do carregamento  
 Caso o jogador erre a ação ou perca o ritmo, ele morre.  

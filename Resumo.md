@@ -35,14 +35,22 @@ Para carregar elas, ele precisa fazer **"Tic, Tic" duas vezes**, não sendo nece
 Com duas balas ele pode atirar em duas pessoas pessoas em dois turnos **ou atirar em dois alvos no mesmo turno**, gastando as duas balas.  
 Para atirar em dois alvos, basta mirar em um com cada mão, falando "Pou" ou "PouPou".  
 
-**Classe extra**:  
-**Assassino**: o assassino não possui mais arma, apenas defesa e uma adaga.  
+## Complementos
+Uma vez que os jogadores se acostumaram com a dinâmica do jogo, é possível acrescentar novas classes, mecânicas e até modos de jogo.  
+Recomenda-se acrescentar os complementos no jogo assim que possível já que eles ajudam a balancear o jogo e tornar ele mais divertido.  
+
+**Assassino**: o assassino não possui arma, apenas defesa e uma adaga.  
 Para carregar sua ação especial, o Assassino afia a sua faca ao som de **"Fshh"**.  
 Para descarregar, o jogador **apunhala** um dos dois jogadores ao seu lado, falando **"Krek"** e encostando a mão fechada em seu peito.  
 A apunhalada **APENAS mata na defesa**. 
 Quando o jogador ao lado do Assassino morre, a próxima pessoa ao seu lado vira um novo possível alvo do assassino.
 Obs: caso o Assasino apunhale um Samurai refletindo com Katchim, nada acontece; ambos continuam vivos, mas gastando seus carregamentos.  
 
-Classe em testes: Pacificador.  
+**Finalizador**: quando sobram apenas dois jogadores numa partida, ambos passam a poder usar uma nova ação especial, o Finalizador.  
+Quem conseguir usar o Finalizador **TRÊS vezes, ganha o jogo**.  
+Não pode utilizar o Finalizador de forma consecutiva.  
+A ação do finalizador é **estalar os dedos** de ambas as mãos, como em Família Adams.  
+Caso ambos os jogadores façam o terceiro finalizador ao mesmo tempo, ambos perdem.  
+
 Conheça mais sobre o jogo em: https://github.com/Markkop/TicTicPou  
 Retirado de https://github.com/Markkop/JogosLudicos  

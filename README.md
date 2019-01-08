@@ -97,7 +97,7 @@ Se o Assassino apunhalar alguém que esteja recarregando, atirando ou usando aç
 Se o Assassino apunhalar um Samurai que esteja refletindo, nada acontece (ambos gastam o carregamento, mas continuam vivos)  
 O Assassino continua vulnerável enquanto ataca, podendo morrer para tiros e explosões.  
 Se um jogador ao lado do Assassino morrer, o próximo jogador vivo ao seu lado vira um novo possível alvo.  
-Em teste: o Assassino recupera a sua arma (TicTic e Pou) em combates de 1x1.  
+Obs: o Assassino recupera a sua arma (TicTic e Pou) em combates de 1x1.  
  
 ### Pacificador (em fase de testes)
 O Pacificador possui as 3 ações básicas, um carregamento de ação especial e uma ação especial.  
@@ -108,13 +108,16 @@ Na rodada do Cancela!, todos as ações de todos os jogadores serão anuladas. C
 Caso o Pacificador seja atacado (tiro e explosão, por exemplo), sua própria ação é anulada (da mesma forma como o Mago) e o jogador eliminado.  
 A morte do Pacificador é sempre considerada primeiro, antes de verificar se sua ação teria salvo a sua vida.  
  
-## Finalizadores 
-Finalizador é um conceito que está sendo trabalhado para ser implementado como solução para o problema do desbalanceamento no 1×1.  
-O problema é que em duelos os jogadores tendem a ficar mais na defensiva, prolongando a duração do jogo.  
-Outro problema é o desequilíbrio no 1×1, como por exemplo ninguém morrer para o Assassino bastando recarregar e atirar em todas as rodadas.  
-Por enquanto estamos com a ideia de que seja necessário recarregar um finalizador por 3 turnos (não necessariamente consecutivos) e ao fim do 3 carregamento, o jogador declara uma ação especial que representa a sua vitória.  
-Exemplos: um Mago invocando um Meteoro, um Padre preparando para Exorcizar alguém, um Samurai dando uma estocada, etc.
-Veja mais no arquivo **Finalizadores.md**  
+## Finalizadores
 
+Quando sobram apenas 2 jogadores (1x1), ambos podem utilizar uma nova ação: o **Finalizador**.  
+Quem utilizar o Finalizador **TRÊS** vezes, ganha o jogo.  
+Não pode utilizar o Finalizador em rodadas consecutivas.  
+A ação do Finalizador é **estalar os dedos** de ambas as mãos duas vezes, como na Família Adams.  
+Caso ambos os jogadores façam o terceiro finalizador ao mesmo tempo, ambos perdem.  
+Naturalmente, o jogador está vulneravel enquanto usa um finalizador.  
+Após realizar o Finalizador pela terceira vez, sem morrer, o jogador é declarado vencedor.  
+*(Obs: o Assassino passa a ter TicTic e Pou enquanto em um 1x1)*  
+  
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este trabalho está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons - Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional</a>.
 

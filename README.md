@@ -25,6 +25,7 @@ Quando sobram apenas 2 jogadores (1×1), eles podem continuar jogando ou se decl
 **Atirar:** o jogador aponta suas mãos simbolizando armas para um alvo e faz o som “Pou!”, gastando uma bala e matando o alvo que estiver sem defender.  
  
 _Observações:_  
+Todos começam com 1 vida e 0 balas.  
 Só é possível ter **uma bala** guardada no máximo.  
 Não é necessário atirar na rodada seguinte que recarregou, você pode “guardar” a bala.  
 Todos possuem apenas uma vida; se for atacado enquanto recarrega ou atira, morre.  
@@ -68,9 +69,10 @@ Antes de começar a partida todos os jogadores devem declarar as suas classes, e
 É necessário que se tenha no mínimo um de cada classe  
 
 _Resoluções e exemplos:_  
-Se o Mago morrer enquanto usa sua explosão, a ação dele é anulada e ninguém é atingido.  
-Se o Samurai refletir a explosão do mago, o Mago morre e a explosão é anulada.  
-Se dois Magos usarem explosão juntos, ambos morrem e ninguém mais é atacado.  
+Se o Mago morrer para um **Tiro ou Katchin** enquanto usa sua explosão, a ação dele é anulada e ninguém é atingido.  
+Se o Samurai refletir a explosão do Mago e o Mago morrer, sua explosão é anulada.  
+~~Se dois Magos usarem explosão juntos, ambos morrem e ninguém mais é atacado.~~ (Kadabras acontecem normalmente)  
+Se dois Magos usarem explosão juntos, todos são atacados normalmente. (Exceto se counterados por um Samurai)  
 A partir do momento que o Padre reza pela segunda vez (sem ser morto), ele possui uma vida extra.  
 Se o Padre for atacado enquanto vulnerável e tiver uma vida extra, ele continua normalmente no jogo, mas perdendo a sua vida extra e podendo rezar novamente (duas vezes) para recuperá-la.  
 Os jogadores ficam vulneráveis durante todas as ações de recarregamento (Abra, Uh, Ohh, Tic Tic)  

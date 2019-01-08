@@ -7,7 +7,8 @@ Para **atirar**, o jogador aponta seus braços como se fossem armas para alguém
 Todos começam com 1 vida.  
 Só é possível ter **uma bala no máximo.**  
 O tiro não precisa ser logo seguinte do carregamento  
-Caso o jogador erre a ação ou perca o ritmo, ele morre.  
+Caso o jogador erre a ação ou não faça o som da ação, ela é anulada.
+Mas caso o jogador perca o ritmo, por qualquer motivo, ele morre.
 Só é possível perder 1 no máximo vida por rodada.  
 
 ## Com Classes

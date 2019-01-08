@@ -17,7 +17,7 @@ O ritmo é definido com todos os jogadores batendo simultaneamente as mãos nas 
 [Começo] - [Bate] - [Bate] - [Ação] - [Bate] - [Bate] - [Ação] - [...] 
  
 Quando sobram apenas 2 jogadores (1×1), ambos são declarados vencedores.  
-O conceito de <a href="https://github.com/Markkop/TicTicPou#finalizadores>Finalizador</a> foi elaborado para tornar esses duelos  interessantes.  
+O conceito de <a href="https://github.com/Markkop/TicTicPou#finalizadores">Finalizador</a> foi elaborado para tornar esses duelos  interessantes.  
 
 
 ## Ações:

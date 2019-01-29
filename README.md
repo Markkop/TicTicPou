@@ -2,7 +2,7 @@
 
 Tic Tic Pou com Classes é uma versão alternativa ao **Tic Tic Pou original**, jogo de roda cuja origem não é conhecida (se você souber de algo, nos avise). O jogo foi apresentado a um grupo de amigos que gostaram tanto do jogo, tanto pela sua simplicidade quanto pela sua dinâmica, que estes foram acrescentando novas ações em complemento as três ações base: **Defender, Recarregar e Atacar**. Conforme nos desafiamos a botar cada vez mais ações, o jogo começou a ficar muito difícil de acompanhar e então criamos as classes.  
 O processo criativo acontece de forma espontânea e colaborativa entre todos que já jogaram o jogo em algum momento e possuem interessem avaliar e contribuir para o refinamento do jogo e de suas classes.  
-O jogo é ensinado em etapas, sugerimos ensinar o jogo base primeiro, jogar algumas partidas, adicionar as 4 classes + noviço e apenas então acrescentar demais classes como Assassino e Pacificador.  
+O jogo é ensinado em etapas, sugerimos ensinar o jogo base primeiro, jogar algumas partidas, adicionar as 4 classes + noviço e apenas então acrescentar demais classes/mecânicas como Assassino e Finalizadores.  
 
 # Tic Tic Pou (jogo base)
 
@@ -16,8 +16,9 @@ O ritmo é definido com todos os jogadores batendo simultaneamente as mãos nas 
  
 [Começo] - [Bate] - [Bate] - [Ação] - [Bate] - [Bate] - [Ação] - [...] 
  
-Quando sobram apenas 2 jogadores (1×1), eles podem continuar jogando ou se declararem ambos vencedores.  
-(Está sendo elaborada uma mecânica de Finalizador para duelos de 1×1) 
+Quando sobram apenas 2 jogadores (1×1), ambos são declarados vencedores.  
+O conceito de <a href="https://github.com/Markkop/TicTicPou#finalizadores">Finalizador</a> foi elaborado para tornar esses duelos  interessantes.  
+
 
 ## Ações:
 **Defender:** o jogador se defende de todos os tiros cruzando seus braços de forma a fazer um X em seu peito  
@@ -85,9 +86,9 @@ O Noviço possui apenas as 3 ações básicas: defender, recarregar e atirar.
 **Mas quando ele atira, ele automaticamente se defende junto**, demonstrando visualmente com uma mão mirando em alguém e o outro braço cruzado como se segurasse um escudo.  
 A declaração de sua classe antes de começar a partida é a pose acima: um braço atirando e o outro cruzado como se segurasse um escudo.  
  
-## Classes extras: 
-Uma vez que os jogadores estiverem habituados com as 4 classes básicas, é possível introduzir classes especiais.  
-Continua sendo necessário que se tenha no mínimo 1 de cada classe básica no jogo.  
+## Complementos 
+Uma vez que os jogadores estiverem habituados com as 4 classes básicas, é possível introduzir novas classes e mecânicas.  
+Em especial, recomendamos adicionar o Assassino e o Finalizador.  
  
 ### Assassino: (Apunhalada)
 O Assassino é a única classe que não possui arma, mas sim uma adaga.  
@@ -100,16 +101,7 @@ Se o Assassino apunhalar um Samurai que esteja refletindo, nada acontece (ambos 
 O Assassino continua vulnerável enquanto ataca, podendo morrer para tiros e explosões.  
 Se um jogador ao lado do Assassino morrer, o próximo jogador vivo ao seu lado vira um novo possível alvo.  
 Obs: o Assassino recupera a sua arma (TicTic e Pou) em combates de 1x1.  
- 
-### Pacificador (em fase de testes)
-O Pacificador possui as 3 ações básicas, um carregamento de ação especial e uma ação especial.  
-**Recarregar ação especial:** o Pacificador cruza seus braços para o alto e anuncia **"Prepara"**  
-**Usar ação especial:** o Pacificador faz um movimento descruzando as mãos abertas e anuncia **“Cancela!”**.  
- 
-Na rodada do Cancela!, todos as ações de todos os jogadores serão anuladas. Caso o Pacificador evite alguma morte, que não a própria, pela sua ação especial, ele ganha uma vida extra (com no máximo uma).  
-Caso o Pacificador seja atacado (tiro e explosão, por exemplo), sua própria ação é anulada (da mesma forma como o Mago) e o jogador eliminado.  
-A morte do Pacificador é sempre considerada primeiro, antes de verificar se sua ação teria salvo a sua vida.  
- 
+   
 ## Finalizadores
 
 Quando sobram apenas 2 jogadores (1x1), ambos podem utilizar uma nova ação: o **Finalizador**.  

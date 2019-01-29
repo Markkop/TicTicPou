@@ -1,14 +1,18 @@
-## Finalizadores
+# Finalizadores
+
+## Mecânica
+
+Ao sobrar apenas dois jogadores na partida, ambos passam a ter uma nova ação possível: usar um Finalizador.  
+Quem conseguir usar o Finalizador três vezes, sem morrer, ganha o jogo.  
+O jogador está vulnerável enquanto faz o Finalizador e precisa sobreviver na terceira vez para ganhar.  
+A ação é uma estalagem de dedos com ambas as mãos.  
+
+## Comentários
   
 Percebemos que as partidas se extendiam por conta da postura defensiva dos dois últimos jogadores sobreviventes, especialmente por parte de novos jogadores ainda não habituados com as mecânicas do jogo. Por esse motivo, nós definimos que **o jogo acaba quando sobram apenas dois jogadores* e ambos são vencedores.**  
 
 Entretanto, duelos entre jogadores acabam sendo bem interessantes e pensamos em formas de tornar um duelo não tão longo.  
-**Finalizadores** entram como ações que apenas **são desbloqueadas quando há apenas dois jogadores** vivos na partida.  
-
-**É necessário carregar um Finalizador três vezes. Caso um jogador conclua com sucesso seu terceiro carregamento, este é considerado vencedor.**  
-Durante o carregamento do finalizador, o jogador está vulnerável.  
-  
-A ação simbólica e sonora do Finalizador ainda não está definida, mas gostamos da **estalagem de dedos** de ambas as mãos durante os testes. (tipo Família Adams)  
+E então criou-se o conceito de Finalizador como apresentado acima.  
 Inicialmente, pensou-se em personalizar a ação e a execução após os 3 carregamentos para cada classe, mas tememos que isso possa complicar o jogo.  
 
 ## Outras opções
@@ -17,7 +21,7 @@ Uma ideia foi de que, durante um duelo entre dois jogadores, houvesse apenas uma
 Se ambos recarregassem, nada aconteceria.  
 Na prática, o jogo mental se demonstrou tão interessante quanto o Finalizador, porém um pouco mais confuso e possivelmente desequilibrado quando inserido com Classes.  
 
-## Assassino
+## Balanceamento: Assassino
 
-Nota-se aqui que estamos avaliando a possibilidade de **restaurar a arma do Assassino assim que ele entrasse em um duelo**, uma vez que sua arma de classe (adaga/apunhalada) se torna inútil em um duelo visto que o oponente pode apenas carregar e atacar para não ser morto na defesa.  
+O Assassino além de receber o Finalizador, passa a receber uma arma, podendo usar Tic Tic e Pou.  
 

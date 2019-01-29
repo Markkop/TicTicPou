@@ -72,8 +72,7 @@ Antes de começar a partida todos os jogadores devem declarar as suas classes, e
 _Resoluções e exemplos:_  
 Se o Mago morrer para um **Tiro ou Katchin** enquanto usa sua explosão, a ação dele é anulada e ninguém é atingido.  
 Se o Samurai refletir a explosão do Mago e o Mago morrer, sua explosão é anulada.  
-~~Se dois Magos usarem explosão juntos, ambos morrem e ninguém mais é atacado.~~ (Kadabras acontecem normalmente)  
-Se dois Magos usarem explosão juntos, todos são atacados normalmente. (Exceto se counterados por um Samurai)  
+Se dois Magos usarem explosão juntos, ambos morrem e ninguém mais é atacado.
 A partir do momento que o Padre reza pela segunda vez (sem ser morto), ele possui uma vida extra.  
 Se o Padre for atacado enquanto vulnerável e tiver uma vida extra, ele continua normalmente no jogo, mas perdendo a sua vida extra e podendo rezar novamente (duas vezes) para recuperá-la.  
 Os jogadores ficam vulneráveis durante todas as ações de recarregamento (Abra, Uh, Ohh, Tic Tic)  
@@ -89,6 +88,7 @@ A declaração de sua classe antes de começar a partida é a pose acima: um bra
 ## Complementos 
 Uma vez que os jogadores estiverem habituados com as 4 classes básicas, é possível introduzir novas classes e mecânicas.  
 Em especial, recomendamos adicionar o Assassino e o Finalizador.  
+Há diversas [classes extras](https://github.com/Markkop/TicTicPou/tree/master/Classes) que podem ser inseridas no jogo.
  
 ### Assassino: (Apunhalada)
 O Assassino é a única classe que não possui arma, mas sim uma adaga.  
@@ -98,7 +98,7 @@ O Assassino não pode recarregar (Tic Tic) e atirar (Pou!), mas pode se defender
  
 Se o Assassino apunhalar alguém que esteja recarregando, atirando ou usando ação especial, a pessoa não morre.  
 Se o Assassino apunhalar um Samurai que esteja refletindo, nada acontece (ambos gastam o carregamento, mas continuam vivos)  
-O Assassino continua vulnerável enquanto ataca, podendo morrer para tiros e explosões.  
+O Assassino está vulnerável enquanto ataca com o Krek.
 Se um jogador ao lado do Assassino morrer, o próximo jogador vivo ao seu lado vira um novo possível alvo.  
 Obs: o Assassino recupera a sua arma (TicTic e Pou) em combates de 1x1.  
    
@@ -106,12 +106,14 @@ Obs: o Assassino recupera a sua arma (TicTic e Pou) em combates de 1x1.
 
 Quando sobram apenas 2 jogadores (1x1), ambos podem utilizar uma nova ação: o **Finalizador**.  
 Quem utilizar o Finalizador **TRÊS** vezes, ganha o jogo.  
-Não pode utilizar o Finalizador em rodadas consecutivas.  
+Não pode usar em rodadas consecutivas.  
+O jogador está vulneravel enquanto usa um finalizador.  
 A ação do Finalizador é **estalar os dedos** de ambas as mãos duas vezes, como na Família Adams.  
 Caso ambos os jogadores façam o terceiro finalizador ao mesmo tempo, ambos perdem.  
-Naturalmente, o jogador está vulneravel enquanto usa um finalizador.  
 Após realizar o Finalizador pela terceira vez, sem morrer, o jogador é declarado vencedor.  
 *(Obs: o Assassino passa a ter TicTic e Pou enquanto em um 1x1)*  
+
+Também há outros [modos de jogo](https://github.com/Markkop/TicTicPou/tree/master/ModosDeJogo) para se jogar TicTicPou.
   
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este trabalho está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons - Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional</a>.
 

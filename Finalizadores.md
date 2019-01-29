@@ -4,6 +4,7 @@
 
 Ao sobrar apenas dois jogadores na partida, ambos passam a ter uma nova ação possível: usar um Finalizador.  
 Quem conseguir usar o Finalizador três vezes, sem morrer, ganha o jogo.  
+Os Finalizadores não podem ser seguidos um do outro.
 O jogador está vulnerável enquanto faz o Finalizador e precisa sobreviver na terceira vez para ganhar.  
 A ação é uma estalagem de dedos com ambas as mãos.  
 

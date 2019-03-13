@@ -1,13 +1,21 @@
-# Modo Campanha
+# Modo Campanha  
 
-No Modo campanha, todos os jogadores começam sem classe tendo apenas a Defesa, o Tic Tic e o Pou!.
-Todos os jogadores possuem duas vidas.
-Ao tirar uma vida de qualquer jogador (incluindo a vida extra do padre), o atirador pode escolher uma classe para usar até o fim da partida.
-Ele anuncia a sua escolha fazendo a ação de carregamento da classe. No caso do Cangaceiro, o jogador declara a sua escolha carregando uma segunda bala.
-Antes de iniciar o jogo, todos os jogadores declaram que irão jogar o Modo Campanha mantendo a posição de defesa em vez de escolherem uma classe.
+O Modo Campanha é um modo de jogo um pouco mais avançado que o Modo Clássico que requer um acompanhamento de vidas e classes mais dinâmico. Este modo incentiva a agressividade no começo da partida e passa a sensação de evolução, tal como em um RPG.  
+  
+No Modo Campanha, todos os jogadores começam a partida com **duas vidas e sem classe**, tendo apenas a Defesa, o Tic Tic e Pou!.  
+O jogador pode **escolher uma classe** para assumir durante o resto da partida **ao tirar uma vida** de outro jogador.  
+Este jogador escolhe a sua classe fazendo a respectiva ação de carregamento.  
+  
+Obs:  
+O jogador pode esperar para escolher a classe.  
+Tirar a vida extra de um Padre libera a escolha de classe.  
+Para escolher o Caganceiro, o jogador carrega uma segunda vez.  
+Se o jogador fizer Tic Tic antes de escolher a classe ele já não pode mais ser o Assassino ou Kabalista, uma vez que estes não possuem Tic Tic.  
+Antes de iniciar o jogo, todos os jogadores declaram que irão jogar o Modo Campanha mantendo a posição de defesa em vez de uma classe.  
+  
+## Ideia descartada: Evolução
 
-## Em Desenvolvimento: Evolução
-
+(A seguinte ideia não se tornou prática por adicionar muitos novos elementos na partida, mas fica o registro para possíveis novas inspirações)  
 Após escolher sua classe, caso o jogador tire mais 2 vidas, a sua classe evolui:
 
 **Mago > Sábio:** o Abra agora pode carregar uma segunda magia: Alakazham. Ao usar Alakazham, o jogador reflete qualquer ataque que receber de volta a todos os outros jogadores. 

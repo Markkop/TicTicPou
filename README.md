@@ -1,8 +1,8 @@
 # Origem e derivação 
 
-Tic Tic Pou com Classes é uma versão alternativa ao **Tic Tic Pou original**, jogo de roda cuja origem não é conhecida (se você souber de algo, nos avise). O jogo foi apresentado a um grupo de amigos que gostaram tanto do jogo, tanto pela sua simplicidade quanto pela sua dinâmica, que estes foram acrescentando novas ações em complemento as três ações base: **Defender, Recarregar e Atacar**. Conforme nos desafiamos a botar cada vez mais ações, o jogo começou a ficar muito difícil de acompanhar e então criamos as classes.  
+Tic Tic Pou com Classes é uma versão alternativa ao **Tic Tic Pou original**, jogo de roda cuja origem não é conhecida (se você souber de algo, nos avise). O jogo foi apresentado a um grupo de amigos que gostaram do jogo, tanto pela sua simplicidade quanto pela sua dinâmica, que estes foram acrescentando novas ações em complemento as três ações base: **Defender, Recarregar e Atacar**. Conforme nos desafiamos a botar cada vez mais ações, o jogo começou a ficar muito complexo de acompanhar e então criamos as classes.  
 O processo criativo acontece de forma espontânea e colaborativa entre todos que já jogaram o jogo em algum momento e possuem interessem avaliar e contribuir para o refinamento do jogo e de suas classes.  
-O jogo é ensinado em etapas, sugerimos ensinar o jogo base primeiro, jogar algumas partidas, adicionar as 4 classes + noviço e apenas então acrescentar demais classes/mecânicas como Assassino e Finalizadores.  
+O jogo é ensinado em etapas, sugerimos ensinar o jogo base primeiro, jogar algumas partidas, adicionar as 4 classes + noviço e apenas então acrescentar demais [classes](https://github.com/Markkop/TicTicPou/tree/master/Classes)/mecânicas como Assassino e Finalizadores.  
 
 # Tic Tic Pou (jogo base)
 
@@ -14,7 +14,7 @@ Os jogadores se posicionam de forma a fazer um círculo.
 Durante o jogo todos os jogadores podem usar uma de 3 ações, declarando ela ao mesmo tempo no passo de um ritmo.  
 O ritmo é definido com todos os jogadores batendo simultaneamente as mãos nas pernas. A rotina é: 
  
-[Começo] - [Bate] - [Bate] - [Ação] - [Bate] - [Bate] - [Ação] - [...] 
+["1..2..3..e.."] - [Bate] - [Bate] - [Ação] - [Bate] - [Bate] - [Ação] - [...] 
  
 Quando sobram apenas 2 jogadores (1×1), ambos são declarados vencedores.  
 O conceito de <a href="https://github.com/Markkop/TicTicPou#finalizadores">Finalizador</a> foi elaborado para tornar esses duelos  interessantes.  
@@ -31,7 +31,8 @@ Só é possível ter **uma bala** guardada no máximo.
 Não é necessário atirar na rodada seguinte que recarregou, você pode “guardar” a bala.  
 Todos possuem apenas uma vida; se for atacado enquanto recarrega ou atira, morre.  
 É necessário anunciar o **som** correspondente a sua ação (menos na Defesa, na qual não há som)  
-Se perder o ritmo ou errar a ação, o jogador é automaticamente eliminado.  
+Se perder o ritmo em qualquer momento, o jogador é eliminado  
+Se errar alguma ação, o jogador é considerado vulnerável e sua ação não tem efeito.  
  
 _Exemplos:_  
 JogadorA atira em JogadorB que defende: jogadorB não morre e jogadorA perde uma bala.  
@@ -78,8 +79,8 @@ Se o Padre for atacado enquanto vulnerável e tiver uma vida extra, ele continua
 Os jogadores ficam vulneráveis durante todas as ações de recarregamento (Abra, Uh, Ohh, Tic Tic)  
 Se o Caganceiro atirar em A e B e A for o Samurai refletindo; o Cangaceiro morre, mas B ainda recebe o tiro.  
  
-### Noviço (Café com leite)
-Para os jogadores que nunca jogaram Tic Tic Pou – Com Classes antes, estes serão Noviços.  
+### Noviço (Café com leite) [opcional]
+Para os jogadores que nunca jogaram Tic Tic Pou – Com Classes antes, estes poderão ser Noviços.  
 Só é possível jogar de Noviço apenas uma vez.  
 O Noviço possui apenas as 3 ações básicas: defender, recarregar e atirar.  
 **Mas quando ele atira, ele automaticamente se defende junto**, demonstrando visualmente com uma mão mirando em alguém e o outro braço cruzado como se segurasse um escudo.  

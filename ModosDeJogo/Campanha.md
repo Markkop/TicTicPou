@@ -8,7 +8,7 @@ Este jogador escolhe a sua classe fazendo a respectiva ação de carregamento.
   
 Obs:  
 O jogador pode esperar para escolher a classe.  
-Tirar a vida extra de um Padre libera a escolha de classe.  
+Tirar a **vida extra** de um Padre libera a escolha de classe.  
 Para escolher o Caganceiro, o jogador carrega uma segunda vez.  
 Se o jogador fizer Tic Tic antes de escolher a classe ele já não pode mais ser o Assassino ou Kabalista, uma vez que estes não possuem Tic Tic.  
 Antes de iniciar o jogo, todos os jogadores declaram que irão jogar o Modo Campanha mantendo a posição de defesa em vez de uma classe.  
